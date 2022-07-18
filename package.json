@@ -1,0 +1,9 @@
+{
+  "name": "queue-node-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "4.2.0"
+  }
+}
