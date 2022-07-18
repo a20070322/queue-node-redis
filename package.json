@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "minimist": "^1.2.6",
     "redis": "4.2.0"
   }
 }
