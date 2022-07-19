@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./lib/index.js"
+  },
   "dependencies": {
     "minimist": "^1.2.6",
     "redis": "4.2.0"
-  }
+  },
+  "devDependencies": {}
 }
