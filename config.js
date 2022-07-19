@@ -19,6 +19,8 @@ module.exports = {
       instances: 1,
       // redis 配置key
       redis: "default",
+      // 任务
+      taskName: "",
     },
   ],
 };
